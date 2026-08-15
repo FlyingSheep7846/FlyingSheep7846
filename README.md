@@ -22,12 +22,18 @@ I'm a Fourth Year Software Engineering student at `McGill University`, passionat
 - 🎮 Current favorite games: Persona 3 Reload, Metaphor: ReFantazio, Red Dead Redemption 2, Pokémon Pokopia
 - 🎵 Current favorite artists: Janet Jackson, Amy Winehouse, Cameron Winter, key vs. locket, A Tribe Called Quest 
 
+## 🛜 Skills and Tools
+- Programming Languages: C++, C#, Java, Luau, C, Python, HTML/CSS
+- Engines/Libraries: Unreal Engine 5, Unity, React
+- Development Tools: Figma, Git/GitHub, Perforce/UGS
+- Project Management: Jira/Confluence, Monday.com, Teams
+
 ## 💻 Projects and Contributions
 ### Game Development Projects
 - Unannounced AAA Game @ Behaviour Interactive:
   - UI Programming Intern for unannounced AAA Multiplayer Game at Behaivour Interactive.
   - Used Unreal Engine 5, UMG and CommonUI Framework, as well as a focus on MVVM
-- Driving Empire @ Voldex:
+- [Driving Empire](https://www.roblox.com/games/3351674303/Driving-Empire-Car-Racing-RP#!/store) @ Voldex:
   - Gameplay Programming Intern for Driving Empire, largest driving experience on Roblox
   - Contributed to Store Frontend, gameplay features like Test Drive, and various AB Tests
 - [Pose Pose Execution](https://flyingsheep22.itch.io/pose-pose-execution):
