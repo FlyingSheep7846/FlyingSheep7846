@@ -12,30 +12,34 @@ I'm a Fourth Year Software Engineering student at `McGill University`, passionat
     <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
   </a>
   <a href="https://www.swimmingsheep.com/">
-    <img src="https://img.shields.io/badge/personal-website-blue?style=for-the-badge" alt="Personal Website"/>
+    <img src="https://img.shields.io/badge/personal_website-blue?style=for-the-badge" alt="Personal Website"/>
   </a>
 </div>
 
 ## 💙 About me 
 - 🔎 Interested in game development, UI/UX design, graphic/visual design, front end development and art in general.
-- 🎱 In my free time, I like to draw, play (and make) games, find new music and attend concerts, try new food and play/watch basketball.
+- 🎱 In my free time, I like to draw, play games, find new music and concerts, try new food and play/watch basketball.
 - 🎮 Current favorite games: Persona 3 Reload, Metaphor: ReFantazio, Red Dead Redemption 2, Pokémon Pokopia
 - 🎵 Current favorite artists: Janet Jackson, Amy Winehouse, Cameron Winter, key vs. locket, A Tribe Called Quest 
 
 ## 💻 Projects and Contributions
 ### Game Development Projects
 - Unannounced AAA Game @ Behaviour Interactive:
+  - UI Programming Intern for unannounced AAA Multiplayer Game at Behaivour Interactive.
+  - Used Unreal Engine 5, UMG and CommonUI Framework, as well as a focus on MVVM
 - Driving Empire @ Voldex:
-- Pose Pose Execution
-- Pas de Deux
-- View all projects on my itch.io page!
+  - Gameplay Programming Intern for Driving Empire, largest driving experience on Roblox
+  - Contributed to Store Frontend, gameplay features like Test Drive, and various AB Tests
+- [Pose Pose Execution](https://flyingsheep22.itch.io/pose-pose-execution):
+  - UI/UX Programmer and Designer for 1v1 strategy dance battle game. Created in 10 weeks under Ubisoft's University Game Lab Competition 2026, Pose Pose Execution was the recipient of the Best UX Award and Audience Award.
+- [Pas de Deux](https://typh0n4.itch.io/pas-de-deux-the-chaos-ballet)
+  - UI/UX Programmer and Designer for co-op rhythm comedy dance game. Created in 10 weeks under Ubisoft's University Game Lab Competition 2025, Pose Pose Execution was the recipient of the Jury's Award.
+- View all game projects on my [Itch.io](https://flyingsheep22.itch.io/) page!
 
 ### Extracurriculars
-- GameDev McGill
-- McGameJam 2026
+- [GameDev McGill](https://gamedevmcgill.ca/): Current club President, exec since 2023 (VP Communications, External, McGameJam)
+- McGameJam 2026: Head Organizer for McGameJam 2026 Edition - First McGameJam of 400 participants and largest in-person gamejam in Quebec.
 
 ## 📫 Contact me: 
 - [LinkedIn](https://www.linkedin.com/in/kevinycbai/)
 - [Email](mailto:kevinycbai@gmail.com)
-
-
