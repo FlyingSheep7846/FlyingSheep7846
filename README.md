@@ -1,8 +1,6 @@
-<h1>
-  Hi, I'm Kevin 🐑🔷
-</h1>
+# Hi, I'm Kevin 🐑🔷
 I'm a Fourth Year Software Engineering student at `McGill University`, passionate about Game Development and Graphic/UI/UX Design. Welcome to my GitHub profile!
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kevinycbai/">
