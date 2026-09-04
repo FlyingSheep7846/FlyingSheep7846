@@ -28,9 +28,9 @@ I'm a Fourth Year Software Engineering student at `McGill University`, passionat
 
 ## 💻 Projects and Contributions
 ### Game Development Projects
-- Unannounced AAA Game @ Behaviour Interactive:
-  - UI Programming Intern for unannounced AAA Multiplayer Game at Behaivour Interactive.
-  - Used Unreal Engine 5, UMG and CommonUI Framework, as well as a focus on MVVM
+- [Exterminauts](https://store.steampowered.com/app/4039200/Exterminauts/) @ Behaviour Interactive:
+  - UI Programming Intern for Exterminauts, 3-player PvE Shooter game.
+  - Used Unreal Engine 5, UMG and CommonUI Framework, with a focus on MVVM
 - [Driving Empire](https://www.roblox.com/games/3351674303/Driving-Empire-Car-Racing-RP#!/store) @ Voldex:
   - Gameplay Programming Intern for Driving Empire, largest driving experience on Roblox
   - Contributed to Store Frontend, gameplay features like Test Drive, and various AB Tests
